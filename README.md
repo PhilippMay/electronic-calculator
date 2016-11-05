@@ -1,4 +1,4 @@
-# electronic-calculator
+# Electronic calculator
 
 Simply Electronic Calculator.
 
